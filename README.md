@@ -87,64 +87,33 @@
 
 <h2 align="left">👨‍💻 About me</h2>
 
-###
-
-<p align="left">AI / Systems learner | Building real projects | Learning by doing</p>
-
-###
-
-<p align="left">Breaking code, fixing it, and scaling it 🤖⚙️</p>
-
-###
-
-<p align="left">Future-focused on AI, ML, and impactful software</p>
-
-###
+<ul>
+  <li>AI / Systems learner | Building real projects | Learning by doing</li>
+  <li>Breaking code, fixing it, and scaling it 🤖⚙️</li>
+  <li>Future-focused on AI, ML, and impactful software</li>
+</ul>
 
 <h2 align="left">🔥 Current grind</h2>
 
-###
-
-<p align="left">Building and breaking things in C/C++, Python, and PyTorch while learning AI, networks, and systems.</p>
-
-###
-
-<p align="left">Actively working on deep learning, cryptography demos, and full-stack projects.</p>
-
-###
-
-<p align="left">Learning Git, GitHub, and open-source workflows the right way.</p>
-
-###
+<ul>
+  <li>Building and breaking things in C/C++, Python, and PyTorch while learning AI, networks, and systems.</li>
+  <li>Actively working on deep learning, cryptography demos, and full-stack projects.</li>
+  <li>Learning Git, GitHub, and open-source workflows the right way.</li>
+</ul>
 
 <h2 align="left">🧠 What I've done</h2>
 
-###
-
-<p align="left">Built a CNN-based brain tumor detection system.</p>
-
-###
-
-<p align="left">Implemented network security and cryptography algorithms from scratch.</p>
-
-###
-
-<p align="left">Developed full-stack web apps using Firebase.</p>
-
-###
+<ul>
+  <li>Built a CNN-based brain tumor detection system.</li>
+  <li>Implemented network security and cryptography algorithms from scratch.</li>
+  <li>Developed full-stack web apps using Firebase.</li>
+</ul>
 
 <h2 align="left">🚀 Future scope</h2>
 
-###
+<ul>
+  <li>Aiming to become a strong AI/ML + systems engineer.</li>
+  <li>Planning to contribute to open-source and scalable real-world projects.</li>
+  <li>Focused on deep learning, cloud, and high-performance software.</li>
+</ul>
 
-<p align="left">Aiming to become a strong AI/ML + systems engineer.</p>
-
-###
-
-<p align="left">Planning to contribute to open-source and scalable real-world projects.</p>
-
-###
-
-<p align="left">Focused on deep learning, cloud, and high-performance software.</p>
-
-###
